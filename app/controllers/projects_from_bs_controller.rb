@@ -1,0 +1,2 @@
+class ProjectsFromBsController < ApplicationController
+end

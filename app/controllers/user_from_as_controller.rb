@@ -1,0 +1,2 @@
+class UserFromAsController < ApplicationController
+end
